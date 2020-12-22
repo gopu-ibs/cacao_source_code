@@ -1,0 +1,32 @@
+﻿[
+  {
+    "amcNumber": "123456890",
+    "name": "John Kennedy",
+    "creditCardNumber": "XXXX XXXX XXXX 1234",
+    "PNR": "ABC123, W2E3D1, RT2Q3I, KEZ2F2"
+  },
+  {
+    "amcNumber": "346771234",
+    "name": "Brandan Smith",
+    "creditCardNumber": "XXXX XXXX XXXX 3456",
+    "PNR": "ABF123,W4E3D4, RT2H3I, RT2L3I"
+  },
+  {
+    "amcNumber": "541256890",
+    "name": "David Nash",
+    "creditCardNumber": "XXXX XXXX XXXX 2225",
+    "PNR": "BBC123, W4E3D1, RT2G3I, K4E3D1"
+  },
+  {
+    "amcNumber": "67566789",
+    "name": "Martin Johns",
+    "creditCardNumber": "XXXX XXXX XXXX 2435",
+    "PNR": "BCD123, TEZ0E1, BaC123, Z4E3D1"
+  },
+  {
+    "amcNumber": "678123445",
+    "name": "Steve Adams",
+    "creditCardNumber": "XXXX XXXX XXXX 4423",
+    "PNR": "KC1234, W4EG61, ZT2G9I, TEZ0E2"
+  }
+]
