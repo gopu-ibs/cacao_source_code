@@ -23,8 +23,8 @@ namespace CACAO
             {
                 AMC objAMC = new AMC();
                 dataGridView1.DataSource = objAMC.GetData(@"C:\amc.json");
-                dataGridView1.Columns[2].Width = 210;
-                dataGridView1.Columns[3].Width = 260;
+                dataGridView1.Columns[2].Width = 200;
+                dataGridView1.Columns[3].Width = 250;
             }
             catch (Exception ex)
             {
